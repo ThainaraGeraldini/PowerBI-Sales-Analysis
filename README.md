@@ -16,6 +16,61 @@ Abaixo está a visão principal do dashboard.
 
 O dashboard foi organizado em diferentes páginas para facilitar a exploração das informações comerciais.
 
+## 🛠️ Tecnologias Utilizadas
+
+- Power BI Desktop
+- Power Query
+- Narrativa Inteligente
+- Principais Influenciadores
+- Mapas Interativos
+- Visualizações Analíticas
+
+---
+
+## 💼 Competências Demonstradas
+
+Durante o desenvolvimento deste projeto foram aplicados conhecimentos relacionados a:
+
+- Tratamento e transformação de dados utilizando Power Query
+- Construção de dashboards interativos
+- Desenvolvimento de indicadores comerciais
+- Análise de desempenho por categoria, fabricante, vendedor e região
+- Utilização de recursos de Inteligência Artificial do Power BI
+- Storytelling com dados
+
+---
+
+## 💡 Principais Insights
+
+Este dashboard permite identificar rapidamente:
+
+- Fabricantes com melhor desempenho em vendas.
+- Categorias com maior representatividade no faturamento.
+- Fatores que mais influenciam os resultados comerciais.
+- Distribuição das vendas por região e vendedores.
+- Participação das lojas nas vendas por categoria.
+
+---
+
+## 📚 Aprendizados
+
+Durante este projeto foi possível aprofundar conhecimentos em:
+
+- Criação de dashboards voltados para análise comercial.
+- Organização de informações em múltiplas páginas.
+- Construção de visualizações para diferentes públicos.
+- Aplicação de recursos avançados do Power BI, como Narrativa Inteligente e Principais Influenciadores.
+- Boas práticas na apresentação e documentação de projetos para portfólio.
+
+---
+
+## 🎓 Contexto do Projeto
+
+Este dashboard foi desenvolvido como parte das atividades práticas do curso de Power BI.
+
+A proposta inicial foi fornecida como base de estudo, porém o desenvolvimento do dashboard, a organização das análises e a documentação apresentada neste repositório foram elaborados como prática para consolidação dos conhecimentos em Business Intelligence.
+
+
 ###  Índice
 
 Página inicial utilizada para navegação entre todas as análises do dashboard.
