@@ -110,8 +110,7 @@ Permite comparar o valor total vendido por categoria e analisar a participação
 
 Apresenta a distribuição das vendas por região e vendedor através de um mapa interativo.
 
+![Performance Regional](performance_regional.png)
 ---
 
-Este projeto faz parte do meu portfólio de Análise de Dados e representa a aplicação prática dos conhecimentos adquiridos em Power BI, com foco na criação de dashboards para apoio à tomada de decisão.
-
-![Performance Regional](performance_regional.png)
+**Este projeto faz parte do meu portfólio de Análise de Dados e representa a aplicação prática dos conhecimentos adquiridos em Power BI, com foco na criação de dashboards para apoio à tomada de decisão**.
