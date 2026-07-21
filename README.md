@@ -74,7 +74,7 @@ A proposta inicial foi fornecida como base de estudo, porém o desenvolvimento d
 
 Abaixo estão as principais páginas desenvolvidas no dashboard, cada uma com um objetivo específico para apoiar a análise comercial.
 
-###  Índice
+###  Índice:
 
 Página inicial utilizada para navegação entre todas as análises do dashboard.
 
@@ -82,7 +82,7 @@ Página inicial utilizada para navegação entre todas as análises do dashboard
 
 ---
 
-###  Narrativa Inteligente
+###  Narrativa Inteligente:
 
 Apresenta um resumo automático dos principais resultados encontrados nos dados, destacando fabricantes, segmentos e categorias com maior desempenho.
 
@@ -90,7 +90,7 @@ Apresenta um resumo automático dos principais resultados encontrados nos dados,
 
 ---
 
-###  Principais Influenciadores
+###  Principais Influenciadores:
 
 Utiliza o recurso de Inteligência Artificial do Power BI para identificar os fatores que mais influenciam o desempenho das vendas.
 
@@ -98,7 +98,7 @@ Utiliza o recurso de Inteligência Artificial do Power BI para identificar os fa
 
 ---
 
-###  Vendas por Categoria e Loja
+###  Vendas por Categoria e Loja:
 
 Permite comparar o valor total vendido por categoria e analisar a participação de cada ponto de venda.
 
@@ -106,7 +106,7 @@ Permite comparar o valor total vendido por categoria e analisar a participação
 
 ---
 
-###  Performance Regional
+###  Performance Regional:
 
 Apresenta a distribuição das vendas por região e vendedor através de um mapa interativo.
 
