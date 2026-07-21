@@ -16,7 +16,7 @@ Abaixo está a visão principal do dashboard.
 
 O dashboard foi organizado em diferentes páginas para facilitar a exploração das informações comerciais.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Power BI Desktop
 - Power Query
@@ -27,7 +27,7 @@ O dashboard foi organizado em diferentes páginas para facilitar a exploração 
 
 ---
 
-## 💼 Competências Demonstradas
+## Competências Demonstradas
 
 Durante o desenvolvimento deste projeto foram aplicados conhecimentos relacionados a:
 
@@ -40,7 +40,7 @@ Durante o desenvolvimento deste projeto foram aplicados conhecimentos relacionad
 
 ---
 
-## 💡 Principais Insights
+##  Principais Insights
 
 Este dashboard permite identificar rapidamente:
 
@@ -52,7 +52,7 @@ Este dashboard permite identificar rapidamente:
 
 ---
 
-## 📚 Aprendizados
+##  Aprendizados
 
 Durante este projeto foi possível aprofundar conhecimentos em:
 
@@ -64,7 +64,7 @@ Durante este projeto foi possível aprofundar conhecimentos em:
 
 ---
 
-## 🎓 Contexto do Projeto
+##  Contexto do Projeto
 
 Este dashboard foi desenvolvido como parte das atividades práticas do curso de Power BI.
 
@@ -73,6 +73,7 @@ A proposta inicial foi fornecida como base de estudo, porém o desenvolvimento d
 ## Demonstração das Páginas
 
 Abaixo estão as principais páginas desenvolvidas no dashboard, cada uma com um objetivo específico para apoiar a análise comercial.
+
 
 ###  Índice:
 
