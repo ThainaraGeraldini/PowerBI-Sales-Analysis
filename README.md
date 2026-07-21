@@ -70,6 +70,9 @@ Este dashboard foi desenvolvido como parte das atividades práticas do curso de 
 
 A proposta inicial foi fornecida como base de estudo, porém o desenvolvimento do dashboard, a organização das análises e a documentação apresentada neste repositório foram elaborados como prática para consolidação dos conhecimentos em Business Intelligence.
 
+## Demonstração das Páginas
+
+Abaixo estão as principais páginas desenvolvidas no dashboard, cada uma com um objetivo específico para apoiar a análise comercial.
 
 ###  Índice
 
